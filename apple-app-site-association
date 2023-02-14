@@ -6,6 +6,7 @@
         "appID": "Z87722F955.com.appstack.tutorial",
         "paths": [
           "/verify/signup/*",
+          "/redirect/*"
           "/signup/singpass",
           "/signup/resubmit",
           "/verify/password/*",
