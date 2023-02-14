@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Z87722F955.com.appstack.tutorial",
+        "paths": [
+          "/verify/signup/*",
+          "/signup/singpass",
+          "/signup/resubmit",
+          "/verify/password/*",
+          "/welcome",
+          "/product/*",
+          "/snackup/merchant"
+        ]
+      }
+    ]
+  }
+}
